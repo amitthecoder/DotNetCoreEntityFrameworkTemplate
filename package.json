@@ -1,0 +1,16 @@
+{
+  "name": "DotNetCoreEntityFrameworkTemplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amitthecoder/DotNetCoreEntityFrameworkTemplate.git",
+  "author": "Amit Upadhyay <65838692+amitthecoder@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "jquery-validation": "^1.19.2",
+    "jquery-validation-unobtrusive": "^3.2.11",
+    "octicons": "^8.5.0"
+  }
+}
